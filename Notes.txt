@@ -1,0 +1,19 @@
+
+decision trees and random forests can work because all the dummy variables will make numerical values 
+logistical regression for 0/1 items then use to build random forests? 
+logistical regression page for exploratory data analysis 
+
+use decision trees / random forests to find the most accurately predicted, then add that variable to the prediction of the next item. info in 3 categories xl file? 
+
+53.7% of time purchase item last quoted 
+
+
+countif each package and remove unexisting or least likely package combos 
+if regression chose one of those packages, choose the last quoted package 
+
+countif on each category (some purchases are 0) to explore 
+
+
+Support Vector Machines Project (iris) as example to find each group answer (can handle more than 2) . Are there dummys in SVM? 
+
+shopping_pt	group_size	homeowner	car_age	risk_factor	age_oldest	age_youngest	married_couple	C_previous	duration_previous	first_insurance	cost	A	B	C	D	E	F	G	AL	AR	CO	CT	DC	DE	FL	GA	IA	ID	IN	KS	KY	MD	ME	MO	MS	MT	ND	NE	NH	NM	NV	NY	OH	OK	OR	PA	RI	SD	TN	UT	WA	WI	WV	Mon	Tues	Wed	Thur	Fri	Sat	time1	time2	time3	time4	car_valueA	car_valueB	car_valueC	car_valueD	car_valueE	car_valueF	car_valueG	car_valueH
